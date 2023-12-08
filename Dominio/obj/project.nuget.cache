@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HESK0hcEZLUNWhVelN5oeYmsPgaEB/54Ql9+LR8Y58KsEBnKAeP4uqhJadYp3hhwqWARsG/EUoYpnRRlm3v92w==",
+  "dgSpecHash": "32r2jqEZHoYV9yk/s/e12W2NNg7Gy31U62kMYzC4Wv1bf3Vr01j5BUeX8ii73iKSdYejSxwfCgNSw0XCfMdBwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\Dominio\\dominio.csproj",
+  "projectFilePath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\crudDotNet\\Dominio\\dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\irlan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\irlan\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",

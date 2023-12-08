@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\entidades\\entidades.csproj": {}
+    "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\crudDotNet\\entidades\\entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\entidades\\entidades.csproj": {
+    "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\crudDotNet\\entidades\\entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\entidades\\entidades.csproj",
+        "projectUniqueName": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\crudDotNet\\entidades\\entidades.csproj",
         "projectName": "entidades",
-        "projectPath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\entidades\\entidades.csproj",
+        "projectPath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\crudDotNet\\entidades\\entidades.csproj",
         "packagesPath": "C:\\Users\\irlan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\entidades\\obj\\",
+        "outputPath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\crudDotNet\\entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\irlan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -932,11 +932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\Dominio\\dominio.csproj",
+      "projectUniqueName": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\crudDotNet\\Dominio\\dominio.csproj",
       "projectName": "dominio",
-      "projectPath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\Dominio\\dominio.csproj",
+      "projectPath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\crudDotNet\\Dominio\\dominio.csproj",
       "packagesPath": "C:\\Users\\irlan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\Dominio\\obj\\",
+      "outputPath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\crudDotNet\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\irlan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -953,8 +953,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\entidades\\entidades.csproj": {
-              "projectPath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\entidades\\entidades.csproj"
+            "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\crudDotNet\\entidades\\entidades.csproj": {
+              "projectPath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\crudDotNet\\entidades\\entidades.csproj"
             }
           }
         }

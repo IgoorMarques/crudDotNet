@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vzJ4Ig3c8ZJlCu2BLbHN9gXNwffVin64wtv6vHGgFPYqN9Ipx3ySHDUcKzcL4rpjZ6/SUKjvErhIt8mVKylnTg==",
+  "dgSpecHash": "gA8oVZ+h+KG+UmCeUbOCCqbcw2KP6jSJxMZ0Yxjmd0OsTsFSvD3HZ64BwUKounluDpkLOy97ttEPVkR00VIYvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\CrudFeelps\\CrudFeelps.csproj",
+  "projectFilePath": "C:\\Users\\irlan\\source\\repos\\CrudFeelps\\crudDotNet\\CrudFeelps\\CrudFeelps.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\irlan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\irlan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",

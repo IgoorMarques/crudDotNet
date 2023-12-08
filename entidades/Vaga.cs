@@ -51,5 +51,13 @@ namespace entidades
 
         [Required(ErrorMessage = "O campo Budget Máximo é obrigatório")]
         public decimal BudgetMaximo { get; set; }
+
+        public string? DescricaoBeneficios { get; set; }
+        public string? Responsabilidades { get; set; }
+        public string? RequisitosTecnicos { get; set; }
+        public string? RequisitosComportamentais { get; set; }
+
+
+
     }
 }

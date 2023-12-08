@@ -68,6 +68,10 @@ namespace CrudFeelps.Controllers
             vaga.Senioridade = vagaInput.ValidaCampo(vagaInput.senioridade) ? vagaInput.senioridade : vaga.Senioridade;
             vaga.RegimeTrabalho = vagaInput.ValidaCampo(vagaInput.regimeTrabalho) ? vagaInput.regimeTrabalho : vaga.RegimeTrabalho;
             vaga.BudgetMaximo = vagaInput.ValidaCampo(vagaInput.budgetMaximo) ? vagaInput.budgetMaximo.GetValueOrDefault() : vaga.BudgetMaximo;
+            vaga.DescricaoBeneficios = vagaInput.ValidaCampo(vagaInput.DescricaoBeneficios) ? vagaInput.DescricaoBeneficios : vaga.DescricaoBeneficios;
+            vaga.Responsabilidades = vagaInput.ValidaCampo(vagaInput.Responsabilidades) ? vagaInput.Responsabilidades : vaga.Responsabilidades;
+            vaga.RequisitosTecnicos = vagaInput.ValidaCampo(vagaInput.RequisitosTecnicos) ? vagaInput.RequisitosTecnicos : vaga.RequisitosTecnicos;
+            vaga.RequisitosComportamentais = vagaInput.ValidaCampo(vagaInput.RequisitosComportamentais) ? vagaInput.RequisitosComportamentais : vaga.RequisitosComportamentais;
             await _interceVaga.Update(vaga);
             return Ok(vaga);
         }

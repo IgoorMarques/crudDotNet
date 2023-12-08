@@ -16,6 +16,10 @@
         public string? senioridade { get; set; } = null;
         public string? regimeTrabalho { get; set; } = null;
         public decimal? budgetMaximo { get; set; } = null;
+        public string? DescricaoBeneficios { get; set; } = null;
+        public string? Responsabilidades { get; set; } = null;
+        public string? RequisitosTecnicos { get; set; } = null;
+        public string? RequisitosComportamentais { get; set; } = null;
 
         public bool ValidaCampo(object item)
         {

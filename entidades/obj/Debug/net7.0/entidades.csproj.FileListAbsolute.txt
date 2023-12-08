@@ -11,3 +11,16 @@ C:\Users\irlan\source\repos\CrudFeelps\entidades\obj\Debug\net7.0\entidades.pdb
 C:\Users\irlan\source\repos\CrudFeelps\entidades\obj\Debug\net7.0\ref\entidades.dll
 C:\Users\irlan\source\repos\CrudFeelps\entidades\bin\Debug\net7.0\entidades.runtimeconfig.json
 C:\Users\irlan\source\repos\CrudFeelps\entidades\obj\Debug\net7.0\entidades.genruntimeconfig.cache
+C:\Users\irlan\source\repos\CrudFeelps\crudDotNet\entidades\bin\Debug\net7.0\entidades.deps.json
+C:\Users\irlan\source\repos\CrudFeelps\crudDotNet\entidades\bin\Debug\net7.0\entidades.runtimeconfig.json
+C:\Users\irlan\source\repos\CrudFeelps\crudDotNet\entidades\bin\Debug\net7.0\entidades.dll
+C:\Users\irlan\source\repos\CrudFeelps\crudDotNet\entidades\bin\Debug\net7.0\entidades.pdb
+C:\Users\irlan\source\repos\CrudFeelps\crudDotNet\entidades\obj\Debug\net7.0\entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irlan\source\repos\CrudFeelps\crudDotNet\entidades\obj\Debug\net7.0\entidades.AssemblyInfoInputs.cache
+C:\Users\irlan\source\repos\CrudFeelps\crudDotNet\entidades\obj\Debug\net7.0\entidades.AssemblyInfo.cs
+C:\Users\irlan\source\repos\CrudFeelps\crudDotNet\entidades\obj\Debug\net7.0\entidades.csproj.CoreCompileInputs.cache
+C:\Users\irlan\source\repos\CrudFeelps\crudDotNet\entidades\obj\Debug\net7.0\entidades.dll
+C:\Users\irlan\source\repos\CrudFeelps\crudDotNet\entidades\obj\Debug\net7.0\refint\entidades.dll
+C:\Users\irlan\source\repos\CrudFeelps\crudDotNet\entidades\obj\Debug\net7.0\entidades.pdb
+C:\Users\irlan\source\repos\CrudFeelps\crudDotNet\entidades\obj\Debug\net7.0\entidades.genruntimeconfig.cache
+C:\Users\irlan\source\repos\CrudFeelps\crudDotNet\entidades\obj\Debug\net7.0\ref\entidades.dll
