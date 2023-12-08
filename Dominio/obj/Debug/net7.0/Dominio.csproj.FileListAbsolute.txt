@@ -1,0 +1,17 @@
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\bin\Debug\net7.0\dominio.deps.json
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\bin\Debug\net7.0\dominio.dll
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\bin\Debug\net7.0\dominio.pdb
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\bin\Debug\net7.0\entidades.dll
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\bin\Debug\net7.0\entidades.pdb
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\obj\Debug\net7.0\dominio.csproj.CopyComplete
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\obj\Debug\net7.0\dominio.dll
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\obj\Debug\net7.0\refint\dominio.dll
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\obj\Debug\net7.0\dominio.pdb
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\obj\Debug\net7.0\ref\dominio.dll
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\bin\Debug\net7.0\dominio.runtimeconfig.json
+C:\Users\irlan\source\repos\CrudFeelps\Dominio\obj\Debug\net7.0\dominio.genruntimeconfig.cache
